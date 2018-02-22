@@ -1,0 +1,16 @@
+.outer {
+    color:black;
+}
+
+h1 {
+    text-align: center;
+    color: inherit;
+}
+
+.docmanholder {
+    margin: auto;
+    margin-top: 10pt;
+    width: 90%;
+    border: 1px solid black;
+    text-align: center;
+}

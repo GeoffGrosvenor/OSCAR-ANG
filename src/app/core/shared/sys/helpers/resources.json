@@ -1,0 +1,9 @@
+{
+    "UserServices":{
+        "UserSecret:" : "366BDE75"
+    },
+    "Tests":{
+        "TestUserName" : "unittest@grosvenor-leasing.co.uk",
+        "TestUserPassword" : "password"
+    }
+}
